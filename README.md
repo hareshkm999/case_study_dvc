@@ -22,6 +22,8 @@ python src/stage_03_train.py
 ## run stage 4 using python command:
 python src/stage_04_evaluate.py
 
+## run code ANN.ipynb using colab:
+
 
 
 ## wokflow -
