@@ -1,0 +1,11 @@
+dvc
+pandas
+numpy
+scikit-learn
+plotly
+pandas-profiling
+openpyxl
+pickleshare
+
+# local packages -
+-e .
